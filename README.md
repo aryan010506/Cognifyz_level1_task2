@@ -36,6 +36,9 @@ Python 3.x
 
 Tkinter (built-in with Python for most installations)
 
+output:
+![Image](https://github.com/user-attachments/assets/08798f19-fcb5-48f4-8baf-f7b9c1f31f09)
+
 💡 Ideal For:
 Beginners learning Python
 
